@@ -1,0 +1,8 @@
+# VSCode Config
+.vscode/
+
+# Build
+build/
+
+# ImGui temp
+imgui.ini
